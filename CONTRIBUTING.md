@@ -2,7 +2,7 @@
 
 ## Post an Issue
 
-If you discover an error, please add an issue here on GitHub. Feature requests are welcome. However, this is a community effort, so pull requests are preferred.
+If you discover an error, please [add an issue](https://github.com/SwiftEducation/presentations/issues) here on GitHub. Feature requests are welcome. However, this is a community effort, so pull requests are preferred.
 
 ## Create a Pull Request
 
