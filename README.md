@@ -1,3 +1,7 @@
+## Deprecation Warning
+
+The Swift Education materials are out of date, and are no longer maintained.
+
 # Teaching App Development with Swift
 
 ## Keynote Presentations
